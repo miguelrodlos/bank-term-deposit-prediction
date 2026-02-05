@@ -63,7 +63,6 @@ The dataset contains customer information such as:
 
 ## Repository Structure
 ```text
-.
 bank-term-deposit-prediction/
 ├── README.md
 ├── notebooks/
