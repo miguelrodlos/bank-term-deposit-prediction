@@ -67,11 +67,7 @@ bank-term-deposit-prediction/
 ├── README.md
 ├── notebooks/
 │   └── training.ipynb
-├── models/
-│   └── final_model.joblib
 ├── predictions/
 │   └── competition_predictions.csv
 ├── data/
-│   └── README.md
-├── requirements.txt
-└── .gitattributes
+    └── README.md
