@@ -64,8 +64,15 @@ The dataset contains customer information such as:
 ## Repository Structure
 ```text
 .
-├── notebooks/        Jupyter notebook with the full analysis
-├── models/           Final trained model
-├── predictions/      Model predictions on competition data
-├── data/             Dataset description (no raw data)
-└── README.md
+bank-term-deposit-prediction/
+├── README.md
+├── notebooks/
+│   └── training.ipynb
+├── models/
+│   └── final_model.joblib
+├── predictions/
+│   └── competition_predictions.csv
+├── data/
+│   └── README.md
+├── requirements.txt
+└── .gitattributes
